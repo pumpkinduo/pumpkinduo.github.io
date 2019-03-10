@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zetsu
 
 > **Zetsu** - is a clean theme for Jekyll :smirk:
@@ -49,3 +50,7 @@ It is under [the MIT license](/LICENSE).
   Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `_layouts/default.html`
 
 Enjoy :yum:
+=======
+# pumpkinduo.github.io
+王小多在这里
+>>>>>>> cf646aec52cdd229a6c73980de0e8ab3963b742b
