@@ -2,8 +2,8 @@
 title: Zetsu
 email: zetsu@domain.com
 description: Um lindo tema feito para jekyll e com o <3
-baseurl: ""
-url: "https://pumpkinduo.github.io"
+baseurl: "https://pumpkinduo.github.io"
+url: ""
 
 author:
   name     : 'Fernando Moreira'
